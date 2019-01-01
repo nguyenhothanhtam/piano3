@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806336627856",
+    "firebase_url": "https://piano3-9c683.firebaseio.com",
+    "project_id": "piano3-9c683",
+    "storage_bucket": "piano3-9c683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806336627856:android:7ab37000e8bdfeaf",
+        "android_client_info": {
+          "package_name": "com.example.thanh.piano3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806336627856-qtq355btt5kjq4lfq1eoh9m27rtpqrsj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thanh.piano3",
+            "certificate_hash": "6cfb8467fad117630f9b836c7e8a43ff58327933"
+          }
+        },
+        {
+          "client_id": "806336627856-fipnmtl5u67mrat7lha50oaivofo24d9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaAyhEl0RW5FD83mpereaIMvpbmAZcFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806336627856-fipnmtl5u67mrat7lha50oaivofo24d9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
